@@ -11,6 +11,6 @@ To edit the presentation take a look at the `index.html` file.
 
 This starts the REPL and runs the application:
 
-```bash
+```bas
  iex -S mix
 ```
