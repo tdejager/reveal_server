@@ -1,21 +1,16 @@
 # RevealServer
 
-**TODO: Add description**
+Simple application for running an elixir app to showcase a reveal.js application. 
 
-## Installation
 
-If [available in Hex](https://hex.pm/docs/publish), the package can be installed
-by adding `reveal_server` to your list of dependencies in `mix.exs`:
+## Editing the presentation
 
-```elixir
-def deps do
-  [
-    {:reveal_server, "~> 0.1.0"}
-  ]
-end
+To edit the presentation take a look at the `index.html` file.
+
+## Starting
+
+This starts the REPL and runs the application:
+
+```bash
+ iex -S mix
 ```
-
-Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
-and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
-be found at [https://hexdocs.pm/simple_server](https://hexdocs.pm/simple_server).
-
