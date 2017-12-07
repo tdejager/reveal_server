@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/tdejager/reveal_server.svg?branch=master)](https://travis-ci.org/tdejager/reveal_server)
+
 # RevealServer
 
 Simple application for running an elixir app to showcase a reveal.js application. 
