@@ -4,7 +4,7 @@
 
 Simple application for running an elixir app to showcase a reveal.js application. 
 
-## Requirments
+## Requirements
 
 * Elixir, any version higher that v1.5 probably
 
