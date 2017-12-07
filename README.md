@@ -2,6 +2,10 @@
 
 Simple application for running an elixir app to showcase a reveal.js application. 
 
+## Requirments
+
+* Elixir, any version higher that v1.5 probably
+
 
 ## Editing the presentation
 
@@ -11,6 +15,14 @@ To edit the presentation take a look at the `index.html` file.
 
 This starts the REPL and runs the application:
 
-```bas
+```bash
  iex -S mix
 ```
+
+To start without REPL:
+
+```bash
+mix run --no-halt
+```
+
+
